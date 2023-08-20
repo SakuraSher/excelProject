@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34009.444
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileProcessingAPI", "FileProcessingAPI\FileProcessingAPI.csproj", "{3909C96C-6C34-4081-9FDA-3DD15C123332}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3909C96C-6C34-4081-9FDA-3DD15C123332}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3909C96C-6C34-4081-9FDA-3DD15C123332}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3909C96C-6C34-4081-9FDA-3DD15C123332}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3909C96C-6C34-4081-9FDA-3DD15C123332}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C64ED2CA-6E1D-4613-8F58-A1DABFECFF35}
+	EndGlobalSection
+EndGlobal
